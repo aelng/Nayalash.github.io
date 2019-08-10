@@ -6,7 +6,7 @@ Personal Website Source Code.
 
 [Link To The Website](https://nayalash.github.io)
 
-## Email
+## Contact
 
 1nayalashm@gmail.com
 
